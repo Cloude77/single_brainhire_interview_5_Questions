@@ -81,7 +81,7 @@ class VideoUploadUser(HttpUser):
 - Ожидаемый результат: 100% ответов 202 Accepted, отсутствие ошибок, стабильность CPU/памяти.
 """
 
-# # locust -f load_test_locust.py --host https://bh75.brainhire.tech
+# #locust -f load_test_locust.py --host https://bh75.brainhire.tech
 
 
 
